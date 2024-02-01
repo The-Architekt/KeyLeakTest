@@ -1,0 +1,3 @@
+client = OpenAI(
+  api_key= 'sk-VpNioHyCtErJFFYe4akT3BlbkFJy7xPsudA7Lk8pJVWOM6U'
+)
